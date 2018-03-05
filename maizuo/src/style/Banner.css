@@ -1,0 +1,11 @@
+.banner{
+	height:15rem;
+	background:pink;
+}
+img{
+	height:15rem;
+	width: 100%;
+}
+.slick-dots{
+	display:none!important;
+}
